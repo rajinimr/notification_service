@@ -1,0 +1,6 @@
+com/screenmagic/notificationservice/NotificationserviceApplication.class
+com/screenmagic/notificationservice/service/Emailer.class
+com/screenmagic/notificationservice/controller/NotificationController.class
+com/screenmagic/notificationservice/service/Emailer$1.class
+com/screen/magic/notificationservice/utils/PrerequisiteException.class
+com/screenmagic/notificationservice/model/Mail.class

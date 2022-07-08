@@ -1,0 +1,1 @@
+web: java -jar target/notificationservice-0.0.1.jar
