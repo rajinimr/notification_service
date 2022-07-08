@@ -1,1 +1,1 @@
-web: java -jar target/notificationservice-0.0.1.jar
+web: java -Dserver.port=5000 $JAVA_OPTS -jar target/notificationservice-0.0.1.jar
